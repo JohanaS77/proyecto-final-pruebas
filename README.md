@@ -176,6 +176,9 @@ El repositorio incluye capturas de pantalla que demuestran la ejecución exitosa
 
 Estas evidencias demuestran el correcto funcionamiento de todas las pruebas automatizadas implementadas para el proyecto.
 
+[![Mira el video en YouTube](https://img.youtube.com/vi/wAn8hxoC8tc/0.jpg)](https://www.youtube.com/watch?v=wAn8hxoC8tc)
+
+
 ## Desarrolladora
 
 Este proyecto fue desarrollado por Johana Saavedra estudiante de tercer semestre en Técnica profesional en programación de aplicaciones de software de la Universidad compensar
